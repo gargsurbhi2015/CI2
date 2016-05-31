@@ -7,7 +7,7 @@ var flag = 1;
 function passwordStrength() {
 
     var password = document.getElementById("password").value;
-    //test
+    //test1
     var len = password.length;
 
     if (len < 5) {
