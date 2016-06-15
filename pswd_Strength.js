@@ -9,6 +9,7 @@ function passwordStrength() {
 
     var password = document.getElementById("password").value;
     //test1 hiiiiii
+    // try try try!!!!!!!!!!!
     var len = password.length;
 
     if (len < 5) {
