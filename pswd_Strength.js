@@ -8,6 +8,7 @@ var flag = 1;
 function passwordStrength() {
 
     var password = document.getElementById("password").value;
+	/// new changes
     //test1 hiiiiii
     // try try try!!!!!!!!!!!
     var len = password.length;
